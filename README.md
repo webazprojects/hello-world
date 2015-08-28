@@ -1,2 +1,3 @@
 # hello-world
-Just test/ecducation repositories
+Just test/education repositories
+:) - bitch living
